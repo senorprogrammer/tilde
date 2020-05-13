@@ -1,6 +1,6 @@
-[astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [terminal](./terminal), [test](./test), 
+[astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [terminal](./terminal), 
 
-* <code>May 12, 2020</code> [Testing Again](/Users/ccummer/Documents/tilde/2020-05-12T21-47-40-testing-again.md)
+* <code>May 12, 2020</code> [Testing Again](/Users/ccummer/Documents/tilde/2020-05-12T22-03-44-testing-again.md)
 * <code>May 11, 2020</code> [iTerm2 Tab Stops Setting](/Users/ccummer/Documents/tilde/2020-05-11T22-49-48-iterm2-tab-stops-setting.md)
 * <code>May 11, 2020</code> [PTAL](/Users/ccummer/Documents/tilde/2020-05-11T15-04-57-ptal.md)
 * <code>May 11, 2020</code> [Go Table Test Structure](/Users/ccummer/Documents/tilde/2020-05-11T10-42-26-go-table-test-structure.md)
@@ -24,4 +24,4 @@
 
 
 
-<sup><sub>generated 12 May 2020 21:52:48 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 May 2020 22:04:07 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
