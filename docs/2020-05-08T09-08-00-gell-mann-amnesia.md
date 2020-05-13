@@ -1,7 +1,7 @@
 ---
 date: 2020-05-08T09:08:00-07:00
 title: Gell-Mann Amnesia
-tags: culture, psychology
+tags: culture, psychology, quotes
 ---
 
 # Gell-Mann Amnesia

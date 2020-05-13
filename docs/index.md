@@ -1,4 +1,4 @@
-[astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [terminal](./terminal), 
+[astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), 
 
 * <code>May 13, 2020</code> [Lickspittle](2020-05-13T10-56-04-lickspittle.md)
 * <code>May 12, 2020</code> [Testing Again](2020-05-12T22-03-44-testing-again.md)
@@ -25,4 +25,4 @@
 
 
 
-<sup><sub>generated 13 May 2020 10:57:13 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 13 May 2020 10:59:38 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

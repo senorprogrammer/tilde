@@ -1,7 +1,7 @@
 ---
 date: 2020-05-10T09:44:37-07:00
 title: Unnecessary Words
-tags: language
+tags: language, quotes
 ---
 
 # Unnecessary Words
