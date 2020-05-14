@@ -3,4 +3,4 @@
 
 * <code>May 11, 2020</code> [Measuring Stars Above The Horizon](2020-05-11T00-17-00-measuring-stars-above-the-horizon.md)
 
-<sup><sub>generated 14 May 2020 09:22:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 14 May 2020 14:47:37 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
