@@ -1,5 +1,4 @@
 [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), 
-
 * <code>May 13, 2020</code> [Lickspittle](2020-05-13T10-56-04-lickspittle.md)
 * <code>May 12, 2020</code> [Testing Again](2020-05-12T22-03-44-testing-again.md)
 * <code>May 11, 2020</code> [iTerm2 Tab Stops Setting](2020-05-11T22-49-48-iterm2-tab-stops-setting.md)
@@ -13,16 +12,13 @@
 * <code>May 07, 2020</code> [Silviculture](2020-05-07T10-06-23-silviculture.md)
 * <code>May 04, 2020</code> [Case-Insensitive Grep - Again](2020-05-04T11-44-37-case-insensitive-grep---again.md)
 
-
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 * <code>Apr 27, 2020</code> [Rounding To An Interval In Go](2020-04-27T08-41-56-rounding-to-an-interval-in-go.md)
 * <code>Apr 23, 2020</code> [Numeric Ascii Codes](2020-04-23T06-06-02-numeric-ascii-codes.md)
 * <code>Apr 20, 2020</code> [Another Test](2020-04-20T15-13-29.md)
 * <code>Apr 20, 2020</code> [Aluminum Cookware and Dishwashers](2020-04-20T13-53-12.md)
 
-
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-
-<sup><sub>generated 13 May 2020 10:59:38 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 14 May 2020 07:55:00 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
