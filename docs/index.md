@@ -1,4 +1,5 @@
 [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), 
+* <code>May 19, 2020</code> [Logorrhea](2020-05-19T10-25-35-logorrhea.md)
 * <code>May 13, 2020</code> [Lickspittle](2020-05-13T10-56-04-lickspittle.md)
 * <code>May 12, 2020</code> [Testing Again](2020-05-12T22-03-44-testing-again.md)
 * <code>May 11, 2020</code> [iTerm2 Tab Stops Setting](2020-05-11T22-49-48-iterm2-tab-stops-setting.md)
@@ -21,4 +22,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 14 May 2020 14:47:37 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 19 May 2020 10:26:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
