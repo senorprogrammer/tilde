@@ -9,4 +9,4 @@
 
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 
-<sup><sub>generated 19 May 2020 10:26:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 May 2020 11:31:57 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
