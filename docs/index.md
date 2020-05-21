@@ -1,4 +1,5 @@
-[astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), 
+[astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), 
+* <code>May 21, 2020</code> [Fqdn](2020-05-21T09-51-01-fqdn.md)
 * <code>May 20, 2020</code> [When Zombies Attack Modelling Paper](2020-05-20T11-31-00-when-zombies-attack-modelling-paper.md)
 * <code>May 19, 2020</code> [Logorrhea](2020-05-19T10-25-35-logorrhea.md)
 * <code>May 13, 2020</code> [Lickspittle](2020-05-13T10-56-04-lickspittle.md)
@@ -23,4 +24,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 20 May 2020 11:31:57 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 21 May 2020 09:52:04 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

@@ -1,6 +1,6 @@
-## culture
+## internet
 
 
-* <code>May 08, 2020</code> [Gell-Mann Amnesia](2020-05-08T09-08-00-gell-mann-amnesia.md)
+* <code>May 21, 2020</code> [Fqdn](2020-05-21T09-51-01-fqdn.md)
 
 <sup><sub>generated 21 May 2020 09:52:04 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
