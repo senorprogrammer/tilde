@@ -1,7 +1,7 @@
 ---
 date: 2020-05-20T11:31:00-07:00
 title: When Zombies Attack Modelling Paper
-tags: 
+tags: zombies
 ---
 
 # When Zombies Attack Modelling Paper
