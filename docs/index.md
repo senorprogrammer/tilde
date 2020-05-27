@@ -1,4 +1,6 @@
-[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), [zombies](./zombies), 
+[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
+
+* <code>May 27, 2020</code> [Shuf](2020-05-27T05-20-57-shuf.md)
 * <code>May 23, 2020</code> [Revanchism](2020-05-23T23-09-46-revanchism.md)
 * <code>May 23, 2020</code> [Dry-Fire A Bow](2020-05-23T17-06-09-dry-fire-a-bow.md)
 * <code>May 21, 2020</code> [Fqdn](2020-05-21T09-51-01-fqdn.md)
@@ -26,4 +28,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 23 May 2020 23:10:39 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 May 2020 05:21:36 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
