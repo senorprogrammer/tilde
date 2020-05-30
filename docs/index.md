@@ -1,5 +1,6 @@
 [archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
+* <code>May 30, 2020</code> [Email Local Part Is Case Sensitive](2020-05-30T11-00-22-email-local-part-is-case-sensitive.md)
 * <code>May 27, 2020</code> [Shuf](2020-05-27T05-20-57-shuf.md)
 * <code>May 23, 2020</code> [Revanchism](2020-05-23T23-09-46-revanchism.md)
 * <code>May 23, 2020</code> [Dry-Fire A Bow](2020-05-23T17-06-09-dry-fire-a-bow.md)
@@ -28,4 +29,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 27 May 2020 05:21:36 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 30 May 2020 11:02:10 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
