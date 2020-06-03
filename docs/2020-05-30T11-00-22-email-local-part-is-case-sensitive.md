@@ -1,7 +1,7 @@
 ---
 date: 2020-05-30T11:00:22-07:00
 title: Email Local Part Is Case Sensitive
-tags: 
+tags: rfc, internet
 ---
 
 # Email Local Part Is Case Sensitive

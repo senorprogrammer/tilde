@@ -1,10 +1,10 @@
 ---
 date: 2020-06-03T07:27:29-07:00
-title: Favour Action Over Inacion
-tags: 
+title: Favour Action Over Inaction
+tags: philosophy
 ---
 
-# Favour Action Over Inacion
+# Favour Action Over Inaction
 
 Levitt found that those who had opted for the choice that involved making a change (as opposed to sticking with the status quo) were more satisfied with their decision and generally happier. 
 

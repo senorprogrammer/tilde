@@ -1,7 +1,7 @@
-[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [psychology](./psychology), [quotes](./quotes), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
+[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
 * <code>Jun 03, 2020</code> [You Are Never Safe](2020-06-03T07-29-08-you-are-never-safe.md)
-* <code>Jun 03, 2020</code> [Favour Action Over Inacion](2020-06-03T07-27-29-favour-action-over-inacion.md)
+* <code>Jun 03, 2020</code> [Favour Action Over Inaction](2020-06-03T07-27-29-favour-action-over-inacion.md)
 * <code>Jun 03, 2020</code> [Perfidy](2020-06-03T07-26-21-perfidy.md)
 
 * <code>May 30, 2020</code> [Email Local Part Is Case Sensitive](2020-05-30T11-00-22-email-local-part-is-case-sensitive.md)
@@ -33,4 +33,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 3 Jun 2020 07:30:44 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 3 Jun 2020 07:34:46 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
