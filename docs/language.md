@@ -1,6 +1,7 @@
 ## language
 
 
+* <code>Jun 12, 2020</code> [Thirst Trap](2020-06-12T08-36-46-thirst-trap.md)
 * <code>Jun 11, 2020</code> [Code-Switching](2020-06-11T23-48-35-code-switching.md)
 * <code>Jun 03, 2020</code> [Perfidy](2020-06-03T07-26-21-perfidy.md)
 
@@ -13,4 +14,4 @@
 
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 
-<sup><sub>generated 12 Jun 2020 08:12:24 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 Jun 2020 08:37:30 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

@@ -1,5 +1,6 @@
 [archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
+* <code>Jun 12, 2020</code> [Thirst Trap](2020-06-12T08-36-46-thirst-trap.md)
 * <code>Jun 11, 2020</code> [Code-Switching](2020-06-11T23-48-35-code-switching.md)
 * <code>Jun 03, 2020</code> [NUMA (Non-uniform Memory Access)](2020-06-03T07-43-31-numa-non-uniform-memory-access.md)
 * <code>Jun 03, 2020</code> [You Are Never Safe](2020-06-03T07-29-08-you-are-never-safe.md)
@@ -35,4 +36,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 12 Jun 2020 08:12:24 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 Jun 2020 08:37:30 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
