@@ -1,5 +1,6 @@
 [archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
+* <code>Jun 11, 2020</code> [Code-Switching](2020-06-11T23-48-35-code-switching.md)
 * <code>Jun 03, 2020</code> [NUMA (Non-uniform Memory Access)](2020-06-03T07-43-31-numa-non-uniform-memory-access.md)
 * <code>Jun 03, 2020</code> [You Are Never Safe](2020-06-03T07-29-08-you-are-never-safe.md)
 * <code>Jun 03, 2020</code> [Favour Action Over Inaction](2020-06-03T07-27-29-favour-action-over-inacion.md)
@@ -34,4 +35,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 3 Jun 2020 07:45:02 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 Jun 2020 08:12:24 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

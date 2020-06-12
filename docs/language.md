@@ -1,6 +1,7 @@
 ## language
 
 
+* <code>Jun 11, 2020</code> [Code-Switching](2020-06-11T23-48-35-code-switching.md)
 * <code>Jun 03, 2020</code> [Perfidy](2020-06-03T07-26-21-perfidy.md)
 
 * <code>May 23, 2020</code> [Revanchism](2020-05-23T23-09-46-revanchism.md)
@@ -12,4 +13,4 @@
 
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 
-<sup><sub>generated 3 Jun 2020 07:45:02 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 Jun 2020 08:12:24 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
