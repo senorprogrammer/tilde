@@ -1,6 +1,8 @@
 ## culture
 
 
+* <code>Jun 12, 2020</code> [Juneteenth](2020-06-12T22-13-35-juneteenth.md)
+
 * <code>May 08, 2020</code> [Gell-Mann Amnesia](2020-05-08T09-08-00-gell-mann-amnesia.md)
 
-<sup><sub>generated 12 Jun 2020 08:37:30 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 Jun 2020 22:17:56 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
