@@ -1,4 +1,4 @@
-[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
+[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [hardware](./hardware), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
 * <code>Jun 12, 2020</code> [Juneteenth](2020-06-12T22-13-35-juneteenth.md)
 * <code>Jun 12, 2020</code> [Remove All Docker Images](2020-06-12T21-41-47-remove-all-docker-images.md)
@@ -39,4 +39,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 12 Jun 2020 22:19:43 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 12 Jun 2020 22:27:48 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

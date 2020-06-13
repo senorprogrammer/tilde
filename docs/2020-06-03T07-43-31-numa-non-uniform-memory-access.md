@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03T07:43:31-07:00
 title: NUMA (Non-uniform Memory Access)
-tags: technology
+tags: technology, hardware
 ---
 
 # NUMA (Non-uniform Memory Access)
