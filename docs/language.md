@@ -1,6 +1,8 @@
 ## language
 
 
+* <code>Jul 20, 2020</code> [Doomscrolling](2020-07-20T05-33-23-doomscrolling.md)
+
 * <code>Jun 21, 2020</code> [Trypanophobia](2020-06-21T19-08-02-trypanophobia.md)
 * <code>Jun 12, 2020</code> [Thirst Trap](2020-06-12T08-36-46-thirst-trap.md)
 * <code>Jun 11, 2020</code> [Code-Switching](2020-06-11T23-48-35-code-switching.md)
@@ -15,4 +17,4 @@
 
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 
-<sup><sub>generated 20 Jul 2020 05:34:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 Jul 2020 05:34:42 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
