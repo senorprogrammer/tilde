@@ -1,5 +1,8 @@
-[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [hardware](./hardware), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
+[archery](./archery), [astronomy](./astronomy), [culture](./culture), [go](./go), [grep](./grep), [hardware](./hardware), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [phobias](./phobias), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
+* <code>Jul 20, 2020</code> [Doomscrolling](2020-07-20T05-33-23-doomscrolling.md)
+
+* <code>Jun 21, 2020</code> [Trypanophobia](2020-06-21T19-08-02-trypanophobia.md)
 * <code>Jun 12, 2020</code> [Juneteenth](2020-06-12T22-13-35-juneteenth.md)
 * <code>Jun 12, 2020</code> [Remove All Docker Images](2020-06-12T21-41-47-remove-all-docker-images.md)
 * <code>Jun 12, 2020</code> [Somnolence](2020-06-12T21-25-21-somnolence.md)
@@ -39,4 +42,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 12 Jun 2020 22:27:48 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 Jul 2020 05:34:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
