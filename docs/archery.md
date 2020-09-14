@@ -3,4 +3,4 @@
 
 * <code>May 23, 2020</code> [Dry-Fire A Bow](2020-05-23T17-06-09-dry-fire-a-bow.md)
 
-<sup><sub>generated 11 Aug 2020 20:47:27 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 13 Sep 2020 19:30:36 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
