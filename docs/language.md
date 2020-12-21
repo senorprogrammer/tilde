@@ -1,6 +1,8 @@
 ## language
 
 
+* <code>Dec 20, 2020</code> [Quarantine](2020-12-20T18-03-49-quarantine.md)
+
 * <code>Jul 20, 2020</code> [Doomscrolling](2020-07-20T05-33-23-doomscrolling.md)
 
 * <code>Jun 21, 2020</code> [Trypanophobia](2020-06-21T19-08-02-trypanophobia.md)
@@ -17,4 +19,4 @@
 
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 
-<sup><sub>generated 27 Nov 2020 10:57:30 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 Dec 2020 18:08:54 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
