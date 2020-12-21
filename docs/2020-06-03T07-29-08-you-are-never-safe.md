@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03T07:29:08-07:00
 title: You Are Never Safe
-tags: philosophy
+tags: philosophy, quotes
 ---
 
 # You Are Never Safe

@@ -1,4 +1,4 @@
-[archery](./archery), [astronomy](./astronomy), [cognition](./cognition), [creativity](./creativity), [culture](./culture), [github](./github), [go](./go), [graphql](./graphql), [grep](./grep), [hardware](./hardware), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [phobias](./phobias), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [screenwriting](./screenwriting), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
+[archery](./archery), [astronomy](./astronomy), [cognition](./cognition), [creativity](./creativity), [culture](./culture), [github](./github), [go](./go), [graphql](./graphql), [grep](./grep), [hardware](./hardware), [history](./history), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [phobias](./phobias), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [screenwriting](./screenwriting), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
 * <code>Dec 20, 2020</code> [Incubation Period](2020-12-20T18-13-12-incubation-period.md)
 * <code>Dec 20, 2020</code> [Quarantine](2020-12-20T18-03-49-quarantine.md)
@@ -54,4 +54,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 20 Dec 2020 18:17:47 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 Dec 2020 19:39:40 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
