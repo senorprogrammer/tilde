@@ -3,4 +3,4 @@
 
 * <code>May 08, 2020</code> [Gell-Mann Amnesia](2020-05-08T09-08-00-gell-mann-amnesia.md)
 
-<sup><sub>generated 20 Dec 2020 23:15:17 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 Dec 2020 23:24:49 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
