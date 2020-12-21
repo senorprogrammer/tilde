@@ -1,6 +1,6 @@
-## psychology
+## science
 
 
-* <code>May 08, 2020</code> [Gell-Mann Amnesia](2020-05-08T09-08-00-gell-mann-amnesia.md)
+* <code>Dec 20, 2020</code> [Earth's Core](2020-12-20T23-14-38-earth's-core.md)
 
 <sup><sub>generated 20 Dec 2020 23:15:17 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
