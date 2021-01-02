@@ -6,4 +6,4 @@
 
 * <code>Apr 27, 2020</code> [Rounding To An Interval In Go](2020-04-27T08-41-56-rounding-to-an-interval-in-go.md)
 
-<sup><sub>generated 20 Dec 2020 23:24:49 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 2 Jan 2021 15:32:44 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
