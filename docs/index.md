@@ -1,5 +1,6 @@
 [archery](./archery), [astronomy](./astronomy), [cognition](./cognition), [creativity](./creativity), [culture](./culture), [github](./github), [go](./go), [graphql](./graphql), [grep](./grep), [hardware](./hardware), [history](./history), [internet](./internet), [language](./language), [linux](./linux), [philosophy](./philosophy), [phobias](./phobias), [psychology](./psychology), [quotes](./quotes), [rfc](./rfc), [science](./science), [screenwriting](./screenwriting), [technology](./technology), [terminal](./terminal), [utilities](./utilities), [zombies](./zombies)
 
+* <code>Jan 06, 2021</code> [Autogolpe](2021-01-06T16-40-21-autogolpe.md)
 * <code>Jan 02, 2021</code> [Crepuscular](2021-01-02T15-31-48-crepuscular.md)
 
 * <code>Dec 20, 2020</code> [Earth's Core](2020-12-20T23-14-38-earth's-core.md)
@@ -57,4 +58,4 @@
 * <code>Mar 30, 2020</code> [First Post](2020-03-30T11-11-11-first-post.md)
 
 
-<sup><sub>generated 2 Jan 2021 15:32:44 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 6 Jan 2021 16:44:45 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
