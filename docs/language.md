@@ -1,6 +1,8 @@
 ## language
 
 
+* <code>Feb 26, 2021</code> [Appurtenance](2021-02-26T18-01-27-appurtenance.md)
+
 * <code>Jan 06, 2021</code> [Autogolpe](2021-01-06T16-40-21-autogolpe.md)
 * <code>Jan 02, 2021</code> [Crepuscular](2021-01-02T15-31-48-crepuscular.md)
 
@@ -22,4 +24,4 @@
 
 * <code>Apr 28, 2020</code> [Kakistocracy](2020-04-28T21-52-07-kakistocracy.md)
 
-<sup><sub>generated 10 Jan 2021 18:24:35 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 26 Feb 2021 18:03:03 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
