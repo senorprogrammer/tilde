@@ -9,6 +9,8 @@ tags: go
 Because I can never remember how to structure the `for` loop with
 `t.Run` inside it, and have to look at other projects every single time:
 
+https://pkg.go.dev/gotest.tools/assert
+
 ```
 func Test_NewFunction(t *testing.T) {
 	tests := []struct {
@@ -21,7 +23,7 @@ func Test_NewFunction(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-
+      assert.Equal(t, tt.expected, actual)
 		})
 	}
 }
